@@ -113,6 +113,12 @@ export default function ContactSection() {
           <p className="flex items-center gap-2 text-gray-600 mb-2">
             <FaMapMarkerAlt className="text-blue-500" /> Flat No. 6, Rugved CHS Ltd., Landmark Near Kirti College, Veer Savarkar Marg, Prabhadevi, Mumbai - 400028.
           </p>
+
+           {/* International Office */}
+          <h3 className="text-md font-semibold text-blue-500 mt-16 mb-2">International Office:</h3>
+          <h4>Dubai</h4>          <p className="flex items-center gap-2 text-gray-600 mb-2">
+            <FaMapMarkerAlt className="text-blue-500" /> M floor, Office no. 10, Royal house building, Hor Al Anz, Dubai, UAE 
+          </p>
         </motion.div>
 
         {/* Contact Form */}

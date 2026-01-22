@@ -26,6 +26,9 @@ const dubai = [
     "/clients/internationalClients/FabLogo-1.png",
     "/clients/internationalClients/rakbank.jpg",
     "/clients/internationalClients/Cbi.jpeg",
+    "/clients/internationalClients/Mawarid-Finance.jpg",
+    "/clients/internationalClients/Aafaq-Islamic-Finance.jpeg",
+
 ];
 
 export default function ClientSlider({ activePage }) {

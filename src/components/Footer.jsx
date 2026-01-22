@@ -61,6 +61,14 @@ const Footer = ({ setActivePage }) => {
                   Regional Office: <br />
                   Flat no. 6. Rugved CHS Ltd. Landmark Near Kirti college, Veer Savarkar Marg. Prabhadevi, Mumbai Pincode : 400028</span>
               </li>
+
+              <li className="flex items-start space-x-3">
+                <FaMapMarkerAlt className="text-gray-400 mt-1" />
+                <span className="text-gray-400">
+                  International Office: <br />
+                  M floor, Office no. 10, Royal house building, Hor Al Anz, Dubai, UAE.
+                </span>
+              </li>
               <li className="flex items-center space-x-3">
                 <FaPhone className="text-gray-400" />
                 <span className="text-gray-400">+91 9028402097 <br />

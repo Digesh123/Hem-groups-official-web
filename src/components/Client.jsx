@@ -80,6 +80,9 @@ const clientData = [
       { src: "/clients/internationalClients/FabLogo-1.png", alt: "First Abu Dhabi Bank" },
       { src: "/clients/internationalClients/DIB-1.png", alt: "Dubai Islamic Bank" },
       { src: "/clients/internationalClients/Cbi.jpeg", alt: "CBI Bank" },
+      { src: "/clients/internationalClients/Aafaq-Islamic-Finance.jpeg", alt: "Aafaq Islamic Finance" },
+      { src: "/clients/internationalClients/Mawarid-Finance.jpg", alt: "Mawarid Finance" },
+
     ],
   },
 ];
