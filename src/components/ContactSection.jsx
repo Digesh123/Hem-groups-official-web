@@ -102,7 +102,7 @@ export default function ContactSection() {
             <FaPhone className="text-blue-500" /> +91 8484058582
           </p>
           <p className="flex items-center gap-2 text-gray-600 mb-4">
-            <FaPhone className="text-blue-500" /> +91 9028402097
+            <FaPhone className="text-blue-500" /> +91 9890025209
           </p>
           <p className="flex items-center gap-2 text-gray-600">
             <FaEnvelope className="text-blue-500" /> support@hemgroups.com
@@ -111,7 +111,7 @@ export default function ContactSection() {
           {/* Regional Office */}
           <h3 className="text-md font-semibold text-blue-500 mt-16 mb-2">Regional Office:</h3>
           <p className="flex items-center gap-2 text-gray-600 mb-2">
-            <FaMapMarkerAlt className="text-blue-500" /> Flat No. 6, Rugved CHS Ltd., Landmark Near Kirti College, Veer Savarkar Marg, Prabhadevi, Mumbai - 400028.
+            <FaMapMarkerAlt className="text-blue-500" /> 2nd floor, Pathare Kshatriya sahayak mandal, city survey no 1, Tika No 24,  opp gaondevi maidan, off gokhle road, thane west-400602. 
           </p>
 
            {/* International Office */}

@@ -46,7 +46,7 @@ export default function ClientSlider({ activePage }) {
                     transition={{
                         repeat: Infinity,
                         ease: "linear",
-                        duration: 20, // Smooth animation duration
+                        duration: 25, // Smooth animation duration
                     }}
                 >
                     {logos.map((logo, index) => (
