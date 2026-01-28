@@ -96,7 +96,7 @@ export default function ContactSection() {
           {/* Head Office */}
           <h3 className="text-md font-semibold text-blue-500 mb-2">Head Office:</h3>
           <p className="flex items-center gap-2 text-gray-600 mb-4">
-            <FaMapMarkerAlt className="text-blue-500" /> Flat No. 201, 2nd Floor, Indira Chambers, 1549-B, Sadashiv Peth, Opp. Maharashtra Mandal, Tilak Road, Pune - 411030.
+             Flat No. 201, 2nd Floor, Indira Chambers, 1549-B, Sadashiv Peth, Opp. Maharashtra Mandal, Tilak Road, Pune - 411030.
           </p>
           <p className="flex items-center gap-2 text-gray-600 mb-4">
             <FaPhone className="text-blue-500" /> +91 8484058582
@@ -111,13 +111,13 @@ export default function ContactSection() {
           {/* Regional Office */}
           <h3 className="text-md font-semibold text-blue-500 mt-16 mb-2">Regional Office:</h3>
           <p className="flex items-center gap-2 text-gray-600 mb-2">
-            <FaMapMarkerAlt className="text-blue-500" /> 2nd floor, Pathare Kshatriya sahayak mandal, city survey no 1, Tika No 24,  opp gaondevi maidan, off gokhle road, thane west-400602. 
+             2nd floor, Pathare Kshatriya sahayak mandal, city survey no 1, Tika No 24,  opp gaondevi maidan, off gokhle road, thane west-400602. 
           </p>
 
            {/* International Office */}
           <h3 className="text-md font-semibold text-blue-500 mt-16 mb-2">International Office:</h3>
           <h4>Dubai</h4>          <p className="flex items-center gap-2 text-gray-600 mb-2">
-            <FaMapMarkerAlt className="text-blue-500" /> M floor, Office no. 10, Royal house building, Hor Al Anz, Dubai, UAE 
+             M floor, Office no. 10, Royal house building, Hor Al Anz, Dubai, UAE 
           </p>
         </motion.div>
 

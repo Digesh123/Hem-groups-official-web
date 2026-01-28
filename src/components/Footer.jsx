@@ -59,7 +59,8 @@ const Footer = ({ setActivePage }) => {
                 <FaMapMarkerAlt className="text-gray-400 mt-1" />
                 <span className="text-gray-400">
                   Regional Office: <br />
-                  Flat no. 6. Rugved CHS Ltd. Landmark Near Kirti college, Veer Savarkar Marg. Prabhadevi, Mumbai Pincode : 400028</span>
+                  2nd floor, Pathare Kshatriya sahayak mandal, city survey no 1, Tika No 24,  opp gaondevi maidan, off gokhle road, thane west-400602.
+                  </span>
               </li>
 
               <li className="flex items-start space-x-3">
